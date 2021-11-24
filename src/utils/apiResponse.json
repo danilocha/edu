@@ -1,0 +1,89 @@
+{
+    "data": {
+        "user": "algun",
+        "username": "username",
+        "valido": true,
+        "users": 100,
+        "detalles": [
+            {
+                "titulo": "recurso 1",
+                "descripcion": "SETT",
+                "grado": 1,
+                "materia": "M",
+                "urlpreview": "urllocal",
+                "urlpresource": "urllocal",
+                "tags": [
+                    "tag1",
+                    "tag2",
+                    "tag3",
+                    "tag4",
+                    "tag5",
+                    "tag6"
+                ]
+            },
+            {
+                "titulo": "recurso 1",
+                "descripcion": "SETT",
+                "grado": 1,
+                "materia": "M",
+                "urlpreview": "urllocal",
+                "urlpresource": "urllocal",
+                "tags": [
+                    "tag1",
+                    "tag2",
+                    "tag3",
+                    "tag4",
+                    "tag5",
+                    "tag6"
+                ]
+            },
+            {
+                "titulo": "recurso 1",
+                "descripcion": "SETT",
+                "grado": 1,
+                "materia": "M",
+                "urlpreview": "urllocal",
+                "urlpresource": "urllocal",
+                "tags": [
+                    "tag1",
+                    "tag2",
+                    "tag3",
+                    "tag4",
+                    "tag5",
+                    "tag6"
+                ]
+            },
+            {
+                "titulo": "recurso 1",
+                "descripcion": "SETT",
+                "grado": 1,
+                "materia": "M",
+                "urlpreview": "urllocal",
+                "urlpresource": "urllocal",
+                "tags": [
+                    "tag1",
+                    "tag2",
+                    "tag3",
+                    "tag4",
+                    "tag5",
+                    "tag6"
+                ]
+            },
+            {
+                "titulo": "recurso 1",
+                "descripcion": "SETT",
+                "grado": 1,
+                "materia": "M",
+                "urlpreview": "urllocal",
+                "urlpresource": "urllocal",
+                "tags": [
+                    "tag1",
+                    "tag2",
+                    "tag3",
+                    "tag4",
+                    "tag5",
+                    "tag6"
+                ]
+            }
+        ]
+    }
